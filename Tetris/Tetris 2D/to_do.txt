@@ -14,7 +14,6 @@ x richtige objekte initialisieren
   x- richtige größe
   x- einfärbig
   x- zufallsfarbe
-<<<<<<< HEAD
 x objekte am grid ausrichten
 x bewegung mit keypads einfügen
   x- position
@@ -86,11 +85,3 @@ QUESTIONS TUTORIUM Lab 1a
 
 x rotation not centered. answer: rotation um den ursprung!!
 x units per block. answer: scale!!
-=======
-- bewegung mit keypads einfügen
-  -- position
-  -- rotation
-- animation verlangsamen, stockend machen
-  designentscheidung: bewegung nur durch tastendrücken, nicht durch halten
-- grid
->>>>>>> 3d6b8af215b2b7d72e34dc6f0b1d3c003d73030b
